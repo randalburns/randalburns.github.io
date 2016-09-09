@@ -3,7 +3,7 @@ layout: page
 title: Academic Family
 ---
 
-... as reported at the [Math Geneaology Project](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10797)
+... as reported by the [Math Geneaology Project](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10797)
   * Grandpa -- [Jehan-François Pâris](http://www2.cs.uh.edu/~paris/),  Professor, University of Houston
   * Dad -- [Darrell DE Long](https://users.soe.ucsc.edu/~darrell/), Kumar Malavali Professor of Computer Science, Univ. of California, Santa Cruz
   * Progeny --
