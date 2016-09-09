@@ -1,0 +1,24 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Randal Burns
+tagline:             'NeuroData Plumber and Data-Intensive HPC'
+description:         ''
+url:                 http://www.cs.jhu.edu/~randal/
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Randal Burns
+  url:               http://www.cs.jhu.edu/~randal/
+  email:             randal@jhu.edu
+
+# Custom vars
+version:             1.0.0
+
+gems: [jekyll-paginate]
+
