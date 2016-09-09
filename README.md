@@ -1,2 +1,2 @@
 
-Randal Burns' WebPage.
+Randal Burns' Web Page.
