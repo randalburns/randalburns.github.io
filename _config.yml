@@ -10,6 +10,7 @@ description:         ''
 url:                 http://www.cs.jhu.edu/~randal/
 baseurl:             ''
 paginate:            5
+paginate_path: "/blog/page:num/"
 
 # About/contact
 author:
