@@ -18,7 +18,7 @@ _fax_: send an email
 _office_: 227 Malone Hall  
 _mailing_: 160 Malone Hall, 3400 N. Charles St,  Baltimore, MD 21218  
 
-[Randal Burns on Google Scholar](https://scholar.google.com/citations?user=rTJTJJ4AAAAJ&hl=ja)
+[Randal Burns on Google Scholar](https://scholar.google.com/citations?user=rTJTJJ4AAAAJ)
 
 <br style="clear:both" />
 
