@@ -3,17 +3,11 @@ layout: page
 title: Collaborators
 ---
 
-I am privileged to advise with the following group of PhD Students  
+I am privileged to advise the following group of PhD Students  
 
-  * [Alex Baden](https://github.com/alexbaden)  
   * James Browne  
-  * [Stephen Hamilton](https://github.com/sshamilton)  
   * [Kunal Lillaney](https://kunallillaney.github.io/)  
   * [Disa Mhembere](https://disa-mhembere.github.io/)  
-
-I also mentor a PostDoc  
-
-  * [Da Zheng](http://www.cs.jhu.edu/~zhengda/)
 
 ## [NeuroData](http://neurodata.io)
 

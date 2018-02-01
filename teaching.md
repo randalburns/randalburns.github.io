@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Misc./Personal/Etc.
+title: Teaching
 ---
 
 ## Advance Data Intensive Computing
@@ -9,4 +9,4 @@ title: Misc./Personal/Etc.
 
 ## Parallel Programming
 
-  * [Spring 2017](http://parallel.cs.jhu.edu/)
+  * [Spring 2018](http://parallel.cs.jhu.edu/)
