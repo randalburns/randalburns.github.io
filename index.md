@@ -31,7 +31,7 @@ Randal Burns is a Professor of [Computer Science](http://www.cs.jhu.edu) in the 
 
 For the last five years, he has focused on data-systems for high-throughput neuroscience.  He is a co-founder of [NeuroData](http://neurodata.io) along with [Joshua Vogelstein](http://jovo.me).  NeuroData democratizes access to world-class data sets, including electron-microscopy connectomics, CLARITY, MRI, and array tomography data.  
 
-Randal is a core member of the [JH Turbulence Database Group](http://turbulence.pha.jhe.edu).  He and his students have built Open Numerical Laboratories in which anyone can explore, mine, and analyze world-class turbulence simulations.
+Randal is a core member of the [JH Turbulence Database Group](http://turbulence.pha.jhu.edu).  He and his students have built Open Numerical Laboratories in which anyone can explore, mine, and analyze world-class turbulence simulations.
 
 At Johns Hopkins, Randal is both a member of and on the steering committee of the [Kavli Neuroscience Discovery Institute](http://hub.jhu.edu/2015/10/01/kavli-neuroscience-discovery-institute/).  He is a member of the [Institute for Data-Intensive Science and Engineering](http://idies.org).
 
