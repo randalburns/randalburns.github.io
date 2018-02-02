@@ -33,7 +33,7 @@ For the last five years, he has focused on data-systems for high-throughput neur
 
 Randal is a core member of the [JH Turbulence Database Group](http://turbulence.pha.jhu.edu).  He and his students have built Open Numerical Laboratories in which anyone can explore, mine, and analyze world-class turbulence simulations.
 
-At Johns Hopkins, Randal is both a member of and on the steering committee of the [Kavli Neuroscience Discovery Institute](http://hub.jhu.edu/2015/10/01/kavli-neuroscience-discovery-institute/).  He is a member of the [Institute for Data-Intensive Science and Engineering](http://idies.org).
+At Johns Hopkins, Randal is both a member of and on the steering committee of the [Kavli Neuroscience Discovery Institute](http://hub.jhu.edu/2015/10/01/kavli-neuroscience-discovery-institute/).  He is a member of the [Institute for Data-Intensive Science and Engineering](http://idies.jhu.edu).
 
 Prior to arriving at JHU in 2002, Randal was Research Staff Member at [IBM’s Almaden Research Center](http://www.almaden.ibm.com) in San Jose.  He earned his Ph.D. in 2000 and M.S. in 1997 from the [Department of Computer Science](http://cs.ucsc.edu) at the [University of California at Santa Cruz](http://ucsc.edu]) (_Go Slugs!_).  He earned his B.S. degree from the [Department of Geophysics](http://geophysics.stanford.edu) at [Stanford University](http://stanford.edu) (_Go Cardinal!_)
 
