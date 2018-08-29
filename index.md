@@ -22,14 +22,19 @@ _mailing_: 160 Malone Hall, 3400 N. Charles St,  Baltimore, MD 21218
 
 * * * 
 
-<small> I'm most recently interested in the interaction between algorithms for machine learning and the memory hierarchy.  This was the topic of my most recent class [Advanced Topics in Data-Intensive Computing](https://github.com/randalburns/atidic-fall17/wiki/Advance-Topics-in-Data-Intensive-Computing).  We've had some initial papers in this direction. [knor (K-means NUMA optimized routines)](https://dl.acm.org/citation.cfm?id=3078607) is the fastest k-means out there for R on [GitHub](https://github.com/neurodata/knorR) and sometimes [CRAN](https://cran.r-project.org/web/packages/knor/index.html). [Disa](https://disa-mhembere.github.io/) won the best presentation award for this work at [HPDC](http://www.hpdc.org/2017/awards/best-paper-award/). Also, [Da's](https://www.cs.jhu.edu/~zhengda/) paper [FlashR: Parallelize and Scale R for Machine Learning using SSDs](https://ppopp18.sigplan.org/program/program-PPoPP-2018?date=Tue%2027%20Feb%202018#modal-phid_2a5356a715907261e32f9089b2db5e85) is a best-paper award candidate at the upcoming [PPoPP](https://ppopp18.sigplan.org/home).
+<small>As of July 1, I am the Interim Chair of the [Department of Computer Science](http://www.cs.jhu.edu).  While I enjoy the term _Congratudolences_, I'm quite looking forward to dipping my toe in the leadership water, seeing how the sausage gets made, etc. I represent a great group of faculty at an interesting time.  Interim means that CS@JHU is actively seeking a head Head of Computer Science, please [apply](https://www.cs.jhu.edu/about/employment-opportunities/).
+
+Here are a couple of interesting recent items:
+  * [Chair's Message](http://www.cs.jhu.edu/)
+  * [My recent interest in ML software architectures.](http://randalburns.github.io/08/29/ml/)
 </small>
+
  
 * * *
 
-Randal Burns is a Professor of [Computer Science](http://www.cs.jhu.edu) in the [Whiting School of Engineering](http://wse.jhu.edu) at [Johns Hopkins University](http://jhu.edu).  His research interests lie in building the high-performance, scalable data systems that allow scientists to make discoveries through the exploration, mining, and statistical analysis of big data. 
+Randal Burns is a Professor and Interim Chair of [Computer Science](http://www.cs.jhu.edu) in the [Whiting School of Engineering](http://wse.jhu.edu) at [Johns Hopkins University](http://jhu.edu).  His research interests lie in building the high-performance, scalable data systems that allow scientists to make discoveries through the exploration, mining, and statistical analysis of big data. 
 
-For the last five years, he has focused on data-systems for high-throughput neuroscience.  He is a co-founder of [NeuroData](http://neurodata.io) along with [Joshua Vogelstein](http://jovo.me).  NeuroData democratizes access to world-class data sets, including electron-microscopy connectomics, CLARITY, MRI, and array tomography data.  
+In recent years, he has focused on data-systems for high-throughput neuroscience.  He is a co-founder of [NeuroData](http://neurodata.io) along with [Joshua Vogelstein](http://jovo.me).  NeuroData democratizes access to world-class data sets, including electron-microscopy connectomics, CLARITY, MRI, and array tomography data.  
 
 Randal is a core member of the [JH Turbulence Database Group](http://turbulence.pha.jhu.edu).  He and his students have built Open Numerical Laboratories in which anyone can explore, mine, and analyze world-class turbulence simulations.
 
