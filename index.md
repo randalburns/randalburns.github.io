@@ -22,12 +22,12 @@ _mailing_: 160 Malone Hall, 3400 N. Charles St,  Baltimore, MD 21218
 
 * * * 
 
-<small>As of July 1, I am the Interim Chair of the [Department of Computer Science](http://www.cs.jhu.edu).  While I enjoy the term _Congratudolences_, I'm quite looking forward to dipping my toe in the leadership water, seeing how the sausage gets made, etc. I represent a great group of faculty at an interesting time.  Interim means that CS@JHU is actively seeking a head Head of Computer Science, please [apply](https://www.cs.jhu.edu/about/employment-opportunities/).
+<small>As of July 1, I am the Interim Chair of the [Department of Computer Science](http://www.cs.jhu.edu).  While I enjoy the term _Congratudolences_, I'm quite looking forward to dipping my toe in the leadership water, seeing how the sausage gets made, etc. I represent a great group of faculty at an interesting time.  Interim means that CS@JHU is actively seeking a Head of Computer Science, please [apply](https://www.cs.jhu.edu/about/employment-opportunities/).</small>
 
 Here are a couple of interesting recent items:
   * [Chair's Message](http://www.cs.jhu.edu/)
   * [My recent interest in ML software architectures.](http://randalburns.github.io/08/29/ml/)
-</small>
+  * [Course: ATIDIC Fall 2018](https://github.com/randalburns/atidic-fall18/wiki/)
 
  
 * * *
