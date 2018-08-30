@@ -29,7 +29,7 @@ Here are a couple of interesting recent items:
   * [Gigantum](http://www.gigantum.com/) is making data science repoducible and sharable. Our open-source product was released in May 2018.
   * [Chair's Message](http://www.cs.jhu.edu/)
   * [My recent interest in ML software architectures.](http://randalburns.github.io/08/29/ml/)
-  * [Course: ATIDIC Fall 2018](https://github.com/randalburns/atidic-fall18/wiki/)
+  * [Course: ATIDIC Fall 2018](https://github.com/randalburns/atidic-fall18/wiki/ATIDIC-Fall-2018)
 
  
 * * *

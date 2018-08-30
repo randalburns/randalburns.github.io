@@ -5,7 +5,7 @@ title: Teaching
 
 ## Advance Data Intensive Computing
 
-  * [Fall 2018](https://github.com/randalburns/atidic-fall17/wiki/)
+  * [Fall 2018](https://github.com/randalburns/atidic-fall18/wiki/ATIDIC-Fall-2018)
   * [Fall 2017](https://github.com/randalburns/atidic-fall17/wiki/Advance-Topics-in-Data-Intensive-Computing)
 
 ## Parallel Programming
