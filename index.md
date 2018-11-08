@@ -25,6 +25,7 @@ _mailing_: 160 Malone Hall, 3400 N. Charles St,  Baltimore, MD 21218
 <small>As of July 1, I am the Interim Chair of the [Department of Computer Science](http://www.cs.jhu.edu).  While I enjoy the term _Congratudolences_, I'm quite looking forward to dipping my toe in the leadership water, seeing how the sausage gets made, etc. I represent a great group of faculty at an interesting time.  Interim means that CS@JHU is actively seeking a Head of Computer Science, please [apply](https://www.cs.jhu.edu/about/employment-opportunities/).</small>
 
 Here are a couple of interesting recent items:
+  * NeuroData was featured in [Nature](https://www.nature.com/articles/d41586-018-07195-2) in the _ToolBox_ column highlighting scientific tools.  We have a related article in [Nature Methods](https://www.nature.com/articles/s41592-018-0181-1)
   * [University of California, Santa Cruz. Distinguished Graduate Student Alumni Award.](https://news.ucsc.edu/2018/04/distinguished-grad-alumni-advance-feature.html?utm_source=04-24-2018&utm_medium=email&utm_campaign=tuesday-newsday)
   * [Gigantum](http://www.gigantum.com/) is making data science repoducible and sharable. Our open-source product was released in May 2018.
   * [Chair's Message](http://www.cs.jhu.edu/)
