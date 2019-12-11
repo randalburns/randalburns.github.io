@@ -14,8 +14,8 @@ title: Home
 
 _email_: randal(at)jhu.edu  
 _phone_: I don't answer  
-_office_: 227 Malone Hall  
-_mailing_: 160 Malone Hall, 3400 N. Charles St,  Baltimore, MD 21218  
+_office_: 163 Malone Hall  
+_snail_: 160 Malone Hall, 3400 N. Charles St,  Baltimore, MD 21218  
 
 [Randal Burns on Google Scholar](https://scholar.google.com/citations?user=rTJTJJ4AAAAJ) <br>
 [Recent CV](./rbcv.pdf)
