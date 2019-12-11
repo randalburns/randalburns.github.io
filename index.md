@@ -29,9 +29,6 @@ Here are a couple of interesting recent items:
   * [University of California, Santa Cruz. Distinguished Graduate Student Alumni Award.](https://news.ucsc.edu/2018/04/distinguished-grad-alumni-advance-feature.html?utm_source=04-24-2018&utm_medium=email&utm_campaign=tuesday-newsday)
   * [Gigantum](http://www.gigantum.com/) is making data science repoducible and sharable. Our open-source product was released in May 2018 and the cloud version in November 2019.
   * [Chair's Message](https://www.cs.jhu.edu/about/message-from-the-chair-2/)
-<comment>  
-  * [Course: ATIDIC Fall 2018](https://github.com/randalburns/atidic-fall18/wiki/ATIDIC-Fall-2018)
-</comment>
  
 * * *
 
