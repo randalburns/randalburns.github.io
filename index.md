@@ -24,7 +24,7 @@ _snail_: 160 Malone Hall, 3400 N. Charles St,  Baltimore, MD 21218
 
 As of July 1, 2018, I became the Chair of the [Department of Computer Science](http://www.cs.jhu.edu). I represent a great group of faculty at an interesting time.
 
-Here is a link to the current course [Parallel Programming](https://gigantum.com/jhupp/jhupp-lectures).
+Here is a link to the current course [Parallel Programming](https://parallel.cs.jhu.edu).
 
 Here are a couple of interesting recent items:
   * I was a visiting procfessor at [INPE](http://inpe.br) in Brazil in January 2020 where I taught a course on [Parallel Programming for Data Science](https://gigantum.com/randal/inpe-parallel-data-science).
