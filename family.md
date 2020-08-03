@@ -18,6 +18,9 @@ title: Academic Family
     - Osama Khan, 2013, Twitter.  
     - Kalin Kanov, 2015, Bloomberg.
     - Da Zheng, 2016, Amazon.
-    - Stephen Hamilton, 2016, Research Scientist, Army Cyber Institute.
+    - Stephen Hamilton, 2016, Research Scientist, Army Cyber Institute and Assistant Professor, United States Military Academy.
+    - Kunal Lillaney, 2019, Amazon.
+    - Disa Mhembere, 2019. Kyndi.
+    - James Browne, 2019, Assistant Professor, United States Military Academy.
 
 I don't have any grandchildren.  Time for the next generation to start reproducing.  
