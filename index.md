@@ -22,15 +22,23 @@ _snail_: 160 Malone Hall, 3400 N. Charles St,  Baltimore, MD 21218
 
 * * * 
 
-As of July 1, 2020, I became the Head of the [Department of Computer Science](http://www.cs.jhu.edu). This supersedes my role as Chair (2019) and Interim Chair (2018). I represent a great group of faculty at an interesting time.
+In Fall 2022, I am offering an updated version of my course with a new title
+[Parallel Computing for Data Science](https://parallel.cs.jhu.edu).
+The new syllabus changes the focus of the course:
+  * Examples will be drawn from machine learning and data science as much as possible.
+  * The course will not cover GPU programming, GPUs, or machine learning frameworks, such as TensorFlow, Keras, and PyTorch.
+  * Supercomputing and scientific/numerical applications will be deemphasized.
+  * The course adds a material on instruction level parallelism, including pipelining and vectorization.
+Most importantly, the term "Programming" has been replaced with "Computing" which reflects the natural 
+evolution of the space to focus more on the architecture and systems aspects of the subject matter and less on 
+programming patterns and parallel design.
 
-In Fall 2021, I taught redeveloped my [Parallel Programming](https://parallel.cs.jhu.edu) course to focus on parallel data science in Python.
+Students wishing to enroll in the course should consult the Web page prior to emailing the instructors.
 
-More recent items:
+Less recent items:
+  * As of July 1, 2020, I became the Head of the [Department of Computer Science](http://www.cs.jhu.edu). This supersedes my role as Chair (2019) and Interim Chair (2018). I represent a great group of faculty at an interesting time.
    * I'm now serving on the Defense Advanced Research Projects Agency (DARPA) Information Science and Technology (ISAT) Study Group.
-   * I published an [article](https://dl.acm.org/doi/10.1145/3409311.3403400) about reproducibility in the classroom in ACM's [eLearn](https://dl.acm.org/magazine/elearn)  magazine. It describe how I use [Gigantum](http://www.gigantum.com/) to teach Parallel Programming.
-  * I was a visiting procfessor at [INPE](http://inpe.br) in Brazil in January 2020 where I taught a course on [Parallel Programming for Data Science](https://gigantum.com/randal/inpe-parallel-data-science).
-  * [University of California, Santa Cruz. Distinguished Graduate Student Alumni Award.](https://news.ucsc.edu/2018/04/distinguished-grad-alumni-advance-feature.html?utm_source=04-24-2018&utm_medium=email&utm_campaign=tuesday-newsday)
+  * I was a visiting procfessor at [INPE](http://inpe.br) in Brazil in January 2020 where I taught a course on _Parallel Programming for Data Science_.
  
 * * *
 

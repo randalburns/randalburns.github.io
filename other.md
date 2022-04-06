@@ -8,13 +8,6 @@ title: Misc./Personal/Etc.
 
 Here are my recent [ACBL results](http://live.acbl.org/player-results/2634112).  I've been debating offering an intersession course on duplicate bridge, perhaps modelled after [this Berkeley course](http://www.decal.org/courses/4260) taught by an undergraduate.  If you found this and would take an intersession course in duplicate bridge, let me know.
 
-
-### Coaching Baseball
-
-Go Buccos!  Both my boys are playing for the same Little League [team](http://teams.siplay.com/695868) in the [Northwest Washington Little League](http://nwlldc.org/).
-
-
-
 ### Fly Fishing
 
   Nothing here.
