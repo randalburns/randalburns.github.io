@@ -3,6 +3,12 @@ layout: page
 title: Academic Family
 ---
 
+My current PhD students include:
+* [Brian Choi](https://portugasian.github.io/)
+* [Ariel Lubonja](https://medium.com/@lubonjaariel)
+* [Meghana Madhyastha](https://megh1241.github.io/)
+* [Brian Wheatman](https://brianwheatman.com/)
+
 ... as reported by the [Math Geneaology Project](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10797)  
 
   * Grandpa -- [Jehan-François Pâris](http://www2.cs.uh.edu/~paris/),  Professor, University of Houston  
